@@ -1,7 +1,0 @@
-C:\Users\jilli\OneDrive\Desktop\HW1Clone\cpts321-hws\HW1\HW1\bin\Debug\HW1.exe.config
-C:\Users\jilli\OneDrive\Desktop\HW1Clone\cpts321-hws\HW1\HW1\bin\Debug\HW1.exe
-C:\Users\jilli\OneDrive\Desktop\HW1Clone\cpts321-hws\HW1\HW1\bin\Debug\HW1.pdb
-C:\Users\jilli\OneDrive\Desktop\HW1Clone\cpts321-hws\HW1\HW1\obj\Debug\HW1.csproj.AssemblyReference.cache
-C:\Users\jilli\OneDrive\Desktop\HW1Clone\cpts321-hws\HW1\HW1\obj\Debug\HW1.csproj.CoreCompileInputs.cache
-C:\Users\jilli\OneDrive\Desktop\HW1Clone\cpts321-hws\HW1\HW1\obj\Debug\HW1.exe
-C:\Users\jilli\OneDrive\Desktop\HW1Clone\cpts321-hws\HW1\HW1\obj\Debug\HW1.pdb
